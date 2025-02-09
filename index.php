@@ -22,7 +22,7 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Project/PHP/PHPProject.php to edi
                         <a class="nav-link active" href="index.php">Home</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">GitHub repo</a>
+                        <a class="nav-link" href="https://github.com/KethanPilla/CreditCard_Validation_PHP">GitHub repo</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Link</a>
